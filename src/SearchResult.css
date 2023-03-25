@@ -1,0 +1,13 @@
+.SearchResult {
+    margin-left: 30px;
+}
+
+.SearchResult .definitionHeader {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.SearchResult .partsOfSpeech {
+    margin-top: 15px;
+    /* margin-left: 25px; */
+}
